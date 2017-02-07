@@ -17,9 +17,6 @@ Javascript
 * ascii_camera.html -> Simple web application which converts camera input to ascii art. utilizes three.js
   
   
-
-
-
-
+Stop by the gitter group : https://gitter.im/OpenC-IIIT
 
 
